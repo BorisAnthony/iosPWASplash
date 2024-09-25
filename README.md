@@ -10,10 +10,10 @@ The splash screen has a dark red background, the home page after is dark blue.
 
 | Device | OS | Works? |
 | :----- | --: | :---: |
-| iPhone 16 Pro | 18.0 | ❓ |
-| iPhone 15 Pro | 18.0 | ❌ |
-| iPhone 12 Pro | 17.6.1 | ✅ |
-| iPad Pro (10.5") | 17.1 | ✅ |
+| iPhone 16 Pro | `18.0` | ❓ |
+| iPhone 15 Pro | `18.0` | ❌ |
+| iPhone 12 Pro | `17.6.1` | ✅ |
+| iPad Pro (10.5") | `17.7` | ✅ |
 
 
 ---
