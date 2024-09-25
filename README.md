@@ -1,3 +1,23 @@
+# Testing iOS bug on iPhone 15 Pro
+
+Deployed here:
+**https://r.c8l.ca/**
+
+Open that URI on an iOS device in Safarai, "Add to Homescreen", then try to launch it.
+The splash screen has a dark red background, the home page after is dark blue.
+
+## Results
+
+| Device | OS | Works? |
+| :----- | --: | :---: |
+| iPhone 16 Pro | 18.0 | ❓ |
+| iPhone 15 Pro | 18.0 | ❌ |
+| iPhone 12 Pro | 17.6.1 | ✅ |
+| iPad Pro (10.5") | 17.1 | ✅ |
+
+
+---
+
 ios-pwa-splash
 ==============
 
